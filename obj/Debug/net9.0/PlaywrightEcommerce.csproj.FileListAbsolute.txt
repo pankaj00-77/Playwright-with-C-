@@ -496,6 +496,7 @@ C:\Users\Pankaj\OneDrive\Desktop\DemoBlaze playwright C#.net\PlaywrightEcommerce
 C:\Users\Pankaj\OneDrive\Desktop\DemoBlaze playwright C#.net\PlaywrightEcommerce\obj\Debug\net9.0\PlaywrightEcommerce.AssemblyInfoInputs.cache
 C:\Users\Pankaj\OneDrive\Desktop\DemoBlaze playwright C#.net\PlaywrightEcommerce\obj\Debug\net9.0\PlaywrightEcommerce.AssemblyInfo.cs
 C:\Users\Pankaj\OneDrive\Desktop\DemoBlaze playwright C#.net\PlaywrightEcommerce\obj\Debug\net9.0\PlaywrightEcommerce.csproj.CoreCompileInputs.cache
+C:\Users\Pankaj\OneDrive\Desktop\DemoBlaze playwright C#.net\PlaywrightEcommerce\obj\Debug\net9.0\PlaywrightEcommerce.sourcelink.json
 C:\Users\Pankaj\OneDrive\Desktop\DemoBlaze playwright C#.net\PlaywrightEcommerce\obj\Debug\net9.0\Playwrig.9DD52782.Up2Date
 C:\Users\Pankaj\OneDrive\Desktop\DemoBlaze playwright C#.net\PlaywrightEcommerce\obj\Debug\net9.0\PlaywrightEcommerce.dll
 C:\Users\Pankaj\OneDrive\Desktop\DemoBlaze playwright C#.net\PlaywrightEcommerce\obj\Debug\net9.0\refint\PlaywrightEcommerce.dll

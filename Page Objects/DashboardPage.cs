@@ -32,6 +32,7 @@ namespace PlaywrightEcommerce.PageObjects
         public async Task AddToCartAsync()
         {
             await AddToCartButton.ClickAsync();
+            Console.WriteLine("Add to cart button clicked successfully.");
         }
     }
 }

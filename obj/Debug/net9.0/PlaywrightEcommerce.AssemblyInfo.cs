@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlaywrightEcommerce")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+028ea65bdf0b8658adfc268389da23ec8a08ddf4")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlaywrightEcommerce")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlaywrightEcommerce")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,18 @@
+NUnit.Framework.Assert
+Add to cart button clicked successfully.
+NavigateToCartAsync successfully.
+Place Order button clicked successfully.
+✔ Product verified in cart.
+✔ fill order form starts from here.
+✔ Order form fill started...
+✔ Modal is visible, filling order form...
+✔ Entered name.
+✔ Entered country.
+✔ Entered city.
+✔ Entered card details.
+✔ Entered month.
+✔ Entered year.
+✔ Purchase button clicked, waiting for confirmation...
+✔ Order form filled and submitted.
+✔ Order confirmation modal displayed.
+✔ Order confirmed and modal closed.

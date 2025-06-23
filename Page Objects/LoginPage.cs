@@ -22,6 +22,7 @@ namespace PlaywrightEcommerce.PageObjects
         public async Task NavigateAsync()
         {
             await _page.GotoAsync("https://www.demoblaze.com/");
+            
         }
 
         public async Task ClickLoginLinkAsync()

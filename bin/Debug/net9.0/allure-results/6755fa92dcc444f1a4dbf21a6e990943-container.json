@@ -1,0 +1,12 @@
+{
+  "uuid": "08865e1d-eaa0-49e5-8985-a2a6b24ce891",
+  "name": "PlaywrightEcommerce.Tests.MainTest.ValidLoginTest",
+  "children": [
+    "d82defd7-5a42-4cf2-96c4-65109b0b78e2"
+  ],
+  "befores": [],
+  "afters": [],
+  "links": [],
+  "start": 1750656737589,
+  "stop": 1750656756207
+}

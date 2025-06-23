@@ -88,7 +88,7 @@ public class PlaceOrderPage
     }
 
     // Locators
-    private ILocator PlaceOrderBtn => _page.Locator(".btn-success");
+    private ILocator PlaceOrderBtn => _page.Locator(".btn-success");// Assuming this is the correct selector for the Place Order button
     private ILocator NameInput => _page.Locator(".modal-content #name");
     private ILocator CountryInput => _page.Locator(".modal-content #country");
     private ILocator CityInput => _page.Locator(".modal-content #city");

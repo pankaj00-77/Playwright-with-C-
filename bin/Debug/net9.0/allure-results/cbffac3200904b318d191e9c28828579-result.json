@@ -1,0 +1,63 @@
+{
+  "uuid": "77bcfdf2-6b35-4228-98e7-a8d6d83a0f4d",
+  "historyId": "07993563519709d60067585e3fca9f81",
+  "testCaseId": "8acb063f4bd08cee410c38510a12fc2f",
+  "fullName": "PlaywrightEcommerce:PlaywrightEcommerce.Tests.MainTest.ValidLoginTest()",
+  "labels": [
+    {
+      "name": "thread",
+      "value": "NonParallelWorker"
+    },
+    {
+      "name": "host",
+      "value": "PANKU"
+    },
+    {
+      "name": "language",
+      "value": "C#"
+    },
+    {
+      "name": "framework",
+      "value": "NUnit 3"
+    },
+    {
+      "name": "package",
+      "value": "PlaywrightEcommerce.Tests"
+    },
+    {
+      "name": "testMethod",
+      "value": "ValidLoginTest"
+    },
+    {
+      "name": "testClass",
+      "value": "MainTest"
+    },
+    {
+      "name": "tag",
+      "value": "Smoke"
+    },
+    {
+      "name": "tag",
+      "value": "Regression"
+    },
+    {
+      "name": "subSuite",
+      "value": "Login"
+    }
+  ],
+  "links": [],
+  "name": "ValidLoginTest",
+  "status": "passed",
+  "stage": "finished",
+  "steps": [],
+  "attachments": [
+    {
+      "name": "Console Output",
+      "source": "3e574257-31da-46ab-b0d5-0fab4e7779bf-attachment.txt",
+      "type": "text/plain"
+    }
+  ],
+  "parameters": [],
+  "start": 1750657465909,
+  "stop": 1750657483012
+}
